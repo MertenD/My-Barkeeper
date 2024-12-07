@@ -8,8 +8,8 @@ My Barkeeper is a comprehensive cocktail management system that allows users to 
 
 3. **Web Crawler**: This component is responsible for retrieving cocktail data from external sources. It includes functionality for retrieving alcoholic and non-alcoholic cocktails, categories, glasses, and ingredients. The code for this component is primarily written in Kotlin.
 
-![Cocktail card](./resources/cocktail_card.png)
-![Personalized Chat](./resources/personalized.png)
+![Cocktail card](./resources/cocktail_card.PNG)
+![Personalized Chat](./resources/personalized.PNG)
 
 ## Some Interaction Diagrams
 
