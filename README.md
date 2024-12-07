@@ -7,3 +7,6 @@ My Barkeeper is a comprehensive cocktail management system that allows users to 
 2. **Backend**: This component is responsible for handling requests and serving data to the Alexa Skill. It includes functionality for retrieving random cocktails, getting all ingredients, and searching for cocktails by ingredient or name. The code for this component is primarily written in PHP.
 
 3. **Web Crawler**: This component is responsible for retrieving cocktail data from external sources. It includes functionality for retrieving alcoholic and non-alcoholic cocktails, categories, glasses, and ingredients. The code for this component is primarily written in Kotlin.
+
+## Process Diagrams
+
